@@ -9,6 +9,6 @@ protect your website with a password
 <p>2. Enjoy</p>
 
 ## [Demo](https://github.com/L64/pass-protect)
--Password: "a"
+<li>Password: "a"</li>
 
 #### Under Boost Software License 1.0

@@ -9,8 +9,8 @@
   if you don't have it, put the file code in $file_code
   the default password is "default"
 */
-$password = "password";
-$file2protect = "example.html";
+$password = "";
+$file2protect = "";
 $file_code = "";
 
 

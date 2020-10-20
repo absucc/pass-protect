@@ -8,8 +8,7 @@ protect your website with a password
 <p>1. Follow the instructions in "index.php"</p>
 <p>2. Enjoy</p>
 
-## Demo
+## [Demo](https://github.com/L64/pass-protect)
 -Password: "a"
-https://github.com/L64/pass-protect
 
 #### Under Boost Software License 1.0

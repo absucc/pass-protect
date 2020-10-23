@@ -2,7 +2,7 @@
 protect your website with a password
 
 ## Requeriments
-<li>Something with php</li>
+<li>PHP Web Server</li>
 
 ## How to use
 <p>1. Follow the instructions in "index.php"</p>

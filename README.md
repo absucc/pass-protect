@@ -11,4 +11,4 @@ protect your website with a password
 ## [Demo](https://pass-protect.l64.repl.co)
 <li>Password: "a"</li>
 
-#### Under Boost Software License 1.0
+#### Under MIT License - ©2020 Lucas (lucas64.tk)

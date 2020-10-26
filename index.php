@@ -15,8 +15,8 @@
 
 	if $die_after_true is 0 it will not close the connection after your page is loaded, if it happends ($die_after_true = 1), your webpage source code can will discovered.
 */
-$password = "a";
-$file2protect = "example.html";
+$password = "";
+$file2protect = "";
 $file_code = "";
 $die_after_true = 0;
 

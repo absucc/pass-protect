@@ -104,7 +104,7 @@ if (isset($_POST['password'])) {
     ?>
 		<footer>
 			<br><br><br><br>
-			<p>pass-protect - <a href="https://github.com/L64/pass-protect"><i class="fa fa-github" aria-hidden="true"></i></a> - <a href="https://github.com/L64/pass-protect/blob/main/LICENSE">©2020 Lucas</a> - v1.1</p>
+			<p>pass-protect - <a href="https://github.com/absucc/pass-protect"><i class="fa fa-github" aria-hidden="true"></i></a> v1.1.1 (WIP)</p>
     			<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     			<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     			<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
@@ -114,7 +114,7 @@ if (isset($_POST['password'])) {
 <?php
 };
 if($die_after_true == 1) {
-	die;
+	die();
 } else {
 }
 ?>
